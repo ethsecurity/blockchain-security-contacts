@@ -11,6 +11,7 @@
 | Democracy Earth | | hello@democracy.earth | |
 | Dharma | | security@dharma.io | |
 | Ethfinex | | bounty@ethfinex.com | |
+| Gitcoin | security@gitcoin.co |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
 | GunClear | | security@gunclear.io | |
 | Kleros | [External Reference](https://github.com/kleros/kleros/blob/master/auditor.md) | contact@kleros.io | [Bug bounty](https://github.com/kleros/kleros/blob/master/auditor.md#bounties) |
